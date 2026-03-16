@@ -9,7 +9,7 @@ require (
 	github.com/google/go-github/v69 v69.2.0
 	github.com/mark3labs/mcp-go v0.18.0
 	github.com/migueleliasweb/go-github-mock v1.1.0
-	github.com/sirupsen/logrus v1.9.3
+	github.com/sirupsen/logrus v1.9.4
 	github.com/spf13/cobra v1.9.1
 	github.com/spf13/viper v1.21.0
 	github.com/stretchr/testify v1.11.1
